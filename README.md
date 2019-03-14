@@ -1,5 +1,3 @@
-##React Redux Firebase Starter
-Ready to go React project with Firebase Auth & DB.
+##Chat App
+Chat App made with React, Redux, Firebase Auth & DB.
 
-##Firebase Setup
-In the config directory clone the fbConfigSample.js file and rename to fbConfig.js. After you create and setup firebase paste your Firebase information into the fbConfig.js file.
